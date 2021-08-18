@@ -1,5 +1,5 @@
 # Finans
 
-<img src="img/finais.gif">
+<img src="img/finans.gif">
 
 ##
